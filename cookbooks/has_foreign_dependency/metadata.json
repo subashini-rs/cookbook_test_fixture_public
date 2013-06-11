@@ -1,0 +1,31 @@
+{
+  "recipes": {
+    "has_foreign_dependencies::default": "Do nothing. With style."
+  },
+  "platforms": {
+  },
+  "version": "1.0.0",
+  "suggestions": {
+  },
+  "maintainer_email": "support@rightscale.com",
+  "providing": {
+  },
+  "license": "none",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "recommendations": {
+  },
+  "name": "has_foreign_dependency",
+  "groupings": {
+  },
+  "long_description": "",
+  "conflicting": {
+  },
+  "maintainer": "RightScale, Inc.",
+  "dependencies": {
+    "mysql": "> 0.0.1"
+  },
+  "description": "Test fixture that has no dependencies"
+}

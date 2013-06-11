@@ -1,0 +1,31 @@
+{
+  "attributes": {
+  },
+  "version": "1.0.0",
+  "maintainer_email": "support@rightscale.com",
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "license": "none",
+  "long_description": "",
+  "description": "Test fixture that has a dependency on a local cookbook of the wrong version",
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "name": "has_internally_conflicting_dependency",
+  "maintainer": "RightScale, Inc.",
+  "recipes": {
+    "has_internally_conflicting_dependency::default": "Do nothing. With style."
+  },
+  "dependencies": {
+    "has_no_dependencies": "2.0.0"
+  }
+}
