@@ -5,4 +5,4 @@ version "1.0.0"
 
 depends "mysql", "> 0.0.1"
 
-recipe "has_foreign_dependencies::default", "Do nothing. With style."
+recipe "has_foreign_dependency::default", "Do nothing. With style."

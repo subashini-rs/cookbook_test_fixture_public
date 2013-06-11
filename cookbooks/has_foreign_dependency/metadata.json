@@ -1,31 +1,31 @@
 {
-  "recipes": {
-    "has_foreign_dependencies::default": "Do nothing. With style."
-  },
-  "platforms": {
-  },
-  "version": "1.0.0",
-  "suggestions": {
-  },
-  "maintainer_email": "support@rightscale.com",
-  "providing": {
-  },
-  "license": "none",
-  "attributes": {
-  },
-  "replacing": {
-  },
   "recommendations": {
   },
-  "name": "has_foreign_dependency",
-  "groupings": {
+  "dependencies": {
+    "mysql": "> 0.0.1"
+  },
+  "suggestions": {
   },
   "long_description": "",
   "conflicting": {
   },
   "maintainer": "RightScale, Inc.",
-  "dependencies": {
-    "mysql": "> 0.0.1"
+  "platforms": {
   },
-  "description": "Test fixture that has no dependencies"
+  "version": "1.0.0",
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "recipes": {
+    "has_foreign_dependency::default": "Do nothing. With style."
+  },
+  "groupings": {
+  },
+  "license": "none",
+  "maintainer_email": "support@rightscale.com",
+  "description": "Test fixture that has no dependencies",
+  "name": "has_foreign_dependency/"
 }
