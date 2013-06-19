@@ -3,4 +3,6 @@ maintainer_email "support@rightscale.com"
 description "Test fixture that has no dependencies"
 version "1.0.0"
 
-recipe "has_no_dependencies::default", "Do nothing. With style."
+depends "mysql", "> 0.0.1"
+
+recipe "ui_has_foreign_dependency::default", "Do nothing. With style."
