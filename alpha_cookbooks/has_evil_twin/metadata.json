@@ -1,0 +1,30 @@
+{
+  "recommendations": {
+  },
+  "recipes": {
+    "has_evil_twin::default": "Do nothing. With style."
+  },
+  "providing": {
+  },
+  "platforms": {
+  },
+  "maintainer_email": "support@rightscale.com",
+  "maintainer": "RightScale, Inc.",
+  "groupings": {
+  },
+  "replacing": {
+  },
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "description": "Test fixture that has an evil twin living in the same repo",
+  "version": "1.0.0",
+  "attributes": {
+  },
+  "long_description": "",
+  "name": "has_evil_twin",
+  "dependencies": {
+  },
+  "license": "none"
+}

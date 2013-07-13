@@ -1,0 +1,30 @@
+{
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "maintainer_email": "support@rightscale.com",
+  "license": "none",
+  "attributes": {
+  },
+  "dependencies": {
+  },
+  "version": "1.0.0",
+  "maintainer": "RightScale, Inc.",
+  "description": "Test fixture that has a differently-versioned twin living in the same repo",
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "recipes": {
+    "has_differently_versioned_twin::default": "Do nothing. With style."
+  },
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "long_description": "",
+  "name": "has_differently_versioned_twin"
+}
