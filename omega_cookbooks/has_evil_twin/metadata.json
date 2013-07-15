@@ -1,30 +1,30 @@
 {
-  "recommendations": {
-  },
-  "recipes": {
-    "has_evil_twin::default": "Do nothing. With style."
-  },
-  "providing": {
-  },
-  "platforms": {
+  "conflicting": {
   },
   "maintainer_email": "support@rightscale.com",
-  "maintainer": "RightScale, Inc.",
+  "attributes": {
+  },
   "groupings": {
-  },
-  "replacing": {
-  },
-  "conflicting": {
   },
   "suggestions": {
   },
-  "description": "Test fixture that has an evil twin living in the same repo",
-  "version": "1.0.0",
-  "attributes": {
+  "recommendations": {
   },
-  "long_description": "",
-  "name": "has_evil_twin",
+  "license": "none",
+  "replacing": {
+  },
   "dependencies": {
   },
-  "license": "none"
+  "platforms": {
+  },
+  "version": "1.0.0",
+  "long_description": "",
+  "providing": {
+  },
+  "maintainer": "RightScale, Inc.",
+  "name": "has_evil_twin",
+  "recipes": {
+    "has_evil_twin::default": "Do nothing, in a good way."
+  },
+  "description": "Test fixture that has an evil twin living in the same repo"
 }
