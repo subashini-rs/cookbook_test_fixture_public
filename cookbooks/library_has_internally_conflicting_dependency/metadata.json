@@ -22,7 +22,7 @@
   "suggestions": {
   },
   "dependencies": {
-    "ui_has_no_dependencies": "2.0.0"
+    "library_has_no_dependencies": "2.0.0"
   },
   "license": "none",
   "groupings": {
