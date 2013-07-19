@@ -1,0 +1,31 @@
+{
+  "maintainer_email": "support@rightscale.com",
+  "dependencies": {
+    "library_has_no_dependencies2": "1.0.0"
+  },
+  "recipes": {
+    "library_has_one_dependency2::default": "Do nothing. With style."
+  },
+  "long_description": "",
+  "version": "1.0.0",
+  "license": "none",
+  "maintainer": "RightScale, Inc.",
+  "description": "Test fixture that has one dependency",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "recommendations": {
+  },
+  "name": "library_has_one_dependency2",
+  "groupings": {
+  }
+}
